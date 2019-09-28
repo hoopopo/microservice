@@ -1,2 +1,4 @@
 server:
   name: config-server
+editer:
+  name: hoopopo
